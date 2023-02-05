@@ -1,0 +1,4 @@
+# Shot_Classification1
+Xception與Resnet50的two-stream model
+
+為避免訓練或測試INPUT圖片時使用過多記憶體空間，所以每次按batch_size的量來讀取圖片資料
